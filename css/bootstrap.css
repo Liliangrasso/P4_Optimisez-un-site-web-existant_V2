@@ -1407,7 +1407,8 @@ textarea {
 
 a {
     color: #337ab7;
-    text-decoration: none
+    text-decoration: none;
+    font-weight: 700;
 }
 
 a:focus,
@@ -1598,7 +1599,7 @@ h1 {
 
 .h2,
 h2 {
-    font-size: 30px
+    font-size: 30px;
 }
 
 .h3,

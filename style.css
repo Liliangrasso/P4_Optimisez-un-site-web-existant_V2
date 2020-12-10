@@ -643,13 +643,17 @@ h5,
 h6,
 p,
 label,
-.btn,
-a {
+.btn
+ {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
 }
 
+a{
+    color: #575757!important;
+    font-family: "helvetica";
+}
 .container {
     max-width: 1000px;
 }
@@ -703,6 +707,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    font-weight: 700;
 }
 
 h3 {
