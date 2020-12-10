@@ -122,10 +122,6 @@ a:hover {
 .d-bloc .a-btn,
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
-.d-bloc a .icon-sm,
-.d-bloc a .icon-md,
-.d-bloc a .icon-lg,
-.d-bloc a .icon-xl,
 .d-bloc h1 a,
 .d-bloc h2 a,
 .d-bloc h3 a,
@@ -476,7 +472,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 2.7em!important;
 }
 
 .icon-lg {
@@ -677,7 +673,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 1.2em;
 }
 
 .tight-width-whitespace {
@@ -780,7 +776,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #424242!important;
 }
 
 .btn-atomic-tangerine:hover {
