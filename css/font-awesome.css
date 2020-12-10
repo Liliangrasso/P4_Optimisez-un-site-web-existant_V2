@@ -17,7 +17,11 @@
     font-size: inherit;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale
+    -moz-osx-font-smoothing: grayscale;
+    color: #575757!important;
+}
+.fa:hover{
+    color: #23527c!important;
 }
 
 .fa-lg {
